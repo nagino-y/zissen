@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1279.213" height="548.006" viewBox="0 0 1279.213 548.006">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1278.713" height="548.006" viewBox="0 0 1278.713 548.006">
   <defs>
     <clipPath id="clip-path">
-      <rect id="長方形_95" data-name="長方形 95" width="64" height="23" transform="translate(0.204)" fill="#fff"/>
+      <rect id="長方形_95" data-name="長方形 95" width="64" height="23" transform="translate(0.275)" fill="#fff"/>
     </clipPath>
   </defs>
   <g id="ロゴ" transform="translate(219.506 74)">
     <text id="ABC" transform="translate(376.201 39)" fill="#fff" font-size="30" font-family="Helvetica"><tspan x="0" y="0">ABC</tspan></text>
     <text id="プログラミングスクール" transform="translate(375.201 60)" fill="#fff" font-size="12" font-family="HiraginoSans-W3, Hiragino Sans" letter-spacing="-0.15em"><tspan x="0" y="0">プログラミングスクール</tspan></text>
-    <g id="ロゴマーク" transform="translate(447.997 4)">
+    <g id="ロゴマーク" transform="translate(447.926 4)">
       <g id="レイヤー_2" transform="translate(0 0)">
         <g id="マスクグループ_2" data-name="マスクグループ 2" clip-path="url(#clip-path)">
-          <g id="レイヤー_2-2" data-name="レイヤー_2" transform="translate(6.051 0.507)">
+          <g id="レイヤー_2-2" data-name="レイヤー_2" transform="translate(5.847 0.507)">
             <g id="グループ_84" data-name="グループ 84">
               <g id="グループ_80" data-name="グループ 80">
                 <ellipse id="楕円形_17" data-name="楕円形 17" cx="3.526" cy="3.683" rx="3.526" ry="3.683" transform="translate(0 14.635)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.94"/>
@@ -46,7 +46,7 @@
         </g>
       </g>
     </g>
-    <line id="線_76" data-name="線 76" x1="26" y1="3" transform="translate(613.814 470.51)" fill="none" stroke="#707070" stroke-width="1"/>
-    <line id="線_77" data-name="線 77" x1="1279.201" y2="15" transform="translate(-219.5 -73.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="線_76" data-name="線 76" x1="26" y1="3" transform="translate(613.482 470.51)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="線_77" data-name="線 77" x1="1278.701" y2="15" transform="translate(-219.5 -73.5)" fill="none" stroke="#707070" stroke-width="1"/>
   </g>
 </svg>
