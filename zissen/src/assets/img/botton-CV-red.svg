@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="80" viewBox="0 0 480 80">
+  <g id="botton-CV-red" transform="translate(0 -7.92)">
+    <rect id="長方形_2" data-name="長方形 2" width="480" height="80" rx="14" transform="translate(0 7.92)" fill="#ef5350"/>
+    <text id="_無料_相談してみる" data-name="【無料】相談してみる" transform="translate(80 57.92)" fill="#fff" font-size="24" font-family="HiraginoSans-W3, Hiragino Sans"><tspan x="0" y="0">【無料】相談してみる</tspan></text>
+    <g id="コンポーネント_1_5" data-name="コンポーネント 1 – 5" transform="translate(360.5 41.287)">
+      <line id="線_12" data-name="線 12" x2="40" transform="translate(0 14)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="線_13" data-name="線 13" x2="17" y2="14" transform="translate(23)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
