@@ -395,4 +395,8 @@ svg#clouds {
     visibility: hidden;
   }
 }
+
+body {
+  margin: 0;
+}
 /*# sourceMappingURL=app.component.css.map */
