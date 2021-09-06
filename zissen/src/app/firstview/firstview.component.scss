@@ -1,28 +1,47 @@
 .clearfix {
   &::after{
-    content: “”;
+    content: "";
     display: block;
     clear: both;
   }
 }
 
 .top-contents{
-  // height:300px;
+  height:300px;
+  // position:relative;
 
   &__left{
+    width:50%;
     margin: 32px;
     // display: inline;
     float:left;
-    &__sub-title {
-      font-size: 32px;
-      // text-align: center;
+    // position:absolute;
+    &__title {
+      // display: flex;
+      // align-items: center;
+      // justify-content: center;
+      // display:flex;
+      flex-flow: column;
+      &__sub {
+        font-size:32px;
+        margin-right: auto;
+      }
+      &__main {
+        font-size: 40px;
+        margin-right: auto;
+
+      }
     }
     &__title {
+      display: flex;
+      align-items: center;
+      justify-content: center ;
       font-size: 40px;
     }
   }
   &__right{
     // display:inline;
-    float:left;
+    float:right;
+    // position:absolute;
   }
 }

@@ -1,24 +1,50 @@
-@charset "UTF-8";
 .clearfix::after {
-  content: “”;
+  content: "";
   display: block;
   clear: both;
 }
 
+.top-contents {
+  height: 300px;
+}
+
 .top-contents__left {
+  width: 50%;
   margin: 32px;
   float: left;
 }
 
-.top-contents__left__sub-title {
+.top-contents__left__title {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-flow: column;
+          flex-flow: column;
+}
+
+.top-contents__left__title__sub {
   font-size: 32px;
+  margin-right: auto;
+}
+
+.top-contents__left__title__main {
+  font-size: 40px;
+  margin-right: auto;
 }
 
 .top-contents__left__title {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   font-size: 40px;
 }
 
 .top-contents__right {
-  float: left;
+  float: right;
 }
 /*# sourceMappingURL=firstview.component.css.map */
