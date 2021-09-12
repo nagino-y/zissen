@@ -57,3 +57,25 @@
     // position:absolute;
   }
 }
+
+.second-contents{
+  &__top{
+    width: auto;
+    height: 100px;
+  }
+  &__line{
+    width:300px;
+    margin: 0 auto;
+    padding: 50px;
+    border-width: 5px 0 0 0;
+    border-style: solid;
+    border-color: skyblue;
+  }
+  &__left{
+    display: table-cell;
+  }
+  &__right{
+    display: table-cell;
+    
+  }
+}

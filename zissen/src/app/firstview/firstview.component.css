@@ -61,4 +61,26 @@
 .top-contents__right {
   float: right;
 }
+
+.second-contents__top {
+  width: auto;
+  height: 100px;
+}
+
+.second-contents__line {
+  width: 300px;
+  margin: 0 auto;
+  padding: 50px;
+  border-width: 5px 0 0 0;
+  border-style: solid;
+  border-color: skyblue;
+}
+
+.second-contents__left {
+  display: table-cell;
+}
+
+.second-contents__right {
+  display: table-cell;
+}
 /*# sourceMappingURL=firstview.component.css.map */
